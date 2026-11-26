@@ -2,7 +2,7 @@
 
 **Baseline Multi-Omic Profiles Fail to Predict Functional DNA-PK Dependency Across Cervical, Ovarian, and Endometrial Cancers: A Comparative Pan-Gynecologic Negative-Validation Study**
 
-- **Author:** Tanmay Singh Naruka (Department of Biotechnology, Amity University, Noida, Uttar Pradesh, India)
+- **Author:** Atar Singh Kushwah 
 - **Repository:** https://github.com/atarskushwah/PanGYN-DNAPK-Negative-Validation
 
 ## Overview
