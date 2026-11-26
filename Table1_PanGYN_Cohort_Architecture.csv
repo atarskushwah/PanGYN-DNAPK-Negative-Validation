@@ -1,0 +1,4 @@
+Cancer_Code,OncotreeLineage,Evaluable_CRISPR_RNA,Epithelial_Only_N,CRISPR_PRKDC_Unmasked_N,DEMETER2_PRKDC_RNAi_N,XRCC5_Ku80_Median_IQR,XRCC6_Ku70_Median_IQR,WGS_CNV_Overlap_N,Matched_TCGA_Cohort,Matched_GEO_Cohorts
+CACX,Cervix,18,18,0,2,-0.904 (-0.949 to -0.792),-1.898 (-1.984 to -1.739),6,TCGA-CESC (n = 309 primary tumours),"GSE56363 (n = 21 CRT), GSE3578 (39 paired biopsies)"
+ENDOCX,Uterus,34,20,0,17,-0.869 (-0.960 to -0.787),-2.008 (-2.429 to -1.895),25,TCGA-UCEC (n = 548 primary uterine tumours),GSE17025 / TCGA-UCEC molecular subtypes (POLE/MSI/CN)
+OVCX,Ovary/Fallopian Tube,56,51,2,33,-0.880 (-1.036 to -0.778),-2.083 (-2.368 to -1.825),38,TCGA-OV (n = 379 primary HGSOC tumours),GSE14764 / GSE32062 (platinum-treated HGSOC)

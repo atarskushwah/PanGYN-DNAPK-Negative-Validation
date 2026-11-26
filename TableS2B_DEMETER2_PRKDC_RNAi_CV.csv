@@ -1,0 +1,12 @@
+Validation_Arm,Outcome,Algorithm,Cancer_Code,N_Eval,Model_RMSE,Null_RMSE,Delta_RMSE,Transport_R,Active_Features
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),CACX,2,0.2263,0.2475,-0.0212,1,14
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),ENDOCX,17,0.3236,0.326,-0.0024,0.3549,14
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),OVCX,33,0.2288,0.2355,-0.0067,0.4064,14
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),Pooled Pan-GYN,52,0.2635,0.2689,-0.0054,0.3784,14
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome Ridge (a=0.0),CACX,2,0.2394,0.2475,-0.0081,1,19191
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome Ridge (a=0.0),ENDOCX,17,0.3154,0.326,-0.0106,0.4025,19191
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome Ridge (a=0.0),OVCX,33,0.2164,0.2355,-0.0191,0.4174,19191
+Pan-Cancer -> GYN Transport,RNAi_PRKDC,Transcriptome Ridge (a=0.0),Pooled Pan-GYN,52,0.2539,0.2689,-0.015,0.3384,19191
+Within-Lineage Nested CV (5x5),RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),OVCX RNAi (n=33),33,0.2586,0.2309,0.0277,-0.0347,30
+Within-Lineage Nested CV (5x5),RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),ENDOCX RNAi (n=17),17,0.2869,0.2817,0.0052,-0.02,26
+Within-Lineage Nested CV (5x5),RNAi_PRKDC,Transcriptome ElasticNet (a=0.5),Pooled GYN RNAi (n=52),52,0.3227,0.2503,0.0724,0.0979,24
